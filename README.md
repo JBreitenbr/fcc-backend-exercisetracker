@@ -1,4 +1,4 @@
 # Exercise Tracker
 
-## The app is liive on:
+## The app is live on:
 ### https://project-exercisetracker-jbr.glitch.me
